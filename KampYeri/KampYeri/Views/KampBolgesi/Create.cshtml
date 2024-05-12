@@ -1,0 +1,16 @@
+﻿<h1>KampBOlgesi EKLEME</h1>
+@model KampBolgesiViewModel
+<form asp-action="Create" asp-controller="KampBolgesi" method="post">
+    <div class="form-group">
+        <label asp-for="Ad"> </label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="form-text text-danger"></span>
+    </div>
+    @* <button type="submit" class="btn btn-primary">EKLE</button> *@
+    <input type="submit" class="btn btn-success" value="Kaydet" />
+
+</form>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}

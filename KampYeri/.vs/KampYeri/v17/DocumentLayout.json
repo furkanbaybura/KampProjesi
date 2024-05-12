@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\repositories\\abstract\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\repositories\\abstract\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\repositories\\concrete\\kampbolgesirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\repositories\\concrete\\kampbolgesirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\controllers\\kampbolgesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\controllers\\kampbolgesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EACA504-FA88-45D7-97BC-4C142FEACAB3}|KampYeri.BLL\\KampYeri.BLL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.bll\\managers\\abstract\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EACA504-FA88-45D7-97BC-4C142FEACAB3}|KampYeri.BLL\\KampYeri.BLL.csproj|solutionrelative:kampyeri.bll\\managers\\abstract\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EACA504-FA88-45D7-97BC-4C142FEACAB3}|KampYeri.BLL\\KampYeri.BLL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.bll\\managers\\concrete\\kampbolgesimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EACA504-FA88-45D7-97BC-4C142FEACAB3}|KampYeri.BLL\\KampYeri.BLL.csproj|solutionrelative:kampyeri.bll\\managers\\concrete\\kampbolgesimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\services\\concrete\\kampbolgesiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\services\\concrete\\kampbolgesiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\services\\profiles\\kampbolgesiprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\services\\profiles\\kampbolgesiprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\repositories\\concrete\\cadirrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\repositories\\concrete\\cadirrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\repositories\\concrete\\kapasiterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\repositories\\concrete\\kapasiterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\services\\profiles\\kapasiteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\services\\profiles\\kapasiteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\services\\profiles\\cadirprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\services\\profiles\\cadirprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\views\\kampbolgesi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\views\\kampbolgesi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\entities\\kapasite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|solutionrelative:entities\\kapasite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5EE71-1EF4-4AA5-AF3B-1145815FE13C}|DTOs\\DTOs.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\dtos\\cadirdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5EE71-1EF4-4AA5-AF3B-1145815FE13C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\cadirdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5EE71-1EF4-4AA5-AF3B-1145815FE13C}|DTOs\\DTOs.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\dtos\\kapasitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5EE71-1EF4-4AA5-AF3B-1145815FE13C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\kapasitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C5EE71-1EF4-4AA5-AF3B-1145815FE13C}|DTOs\\DTOs.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\dtos\\kampbolgesidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C5EE71-1EF4-4AA5-AF3B-1145815FE13C}|DTOs\\DTOs.csproj|solutionrelative:dtos\\kampbolgesidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\entities\\kampbolgesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|solutionrelative:entities\\kampbolgesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\models\\kampbolgesiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\models\\kampbolgesiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\models\\cadirviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\models\\cadirviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\entities\\cadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAF3EFA-5274-48A1-AF72-4FB0BED392A8}|Entities\\Entities.csproj|solutionrelative:entities\\cadir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\models\\kapasiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\models\\kapasiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512193531_ilkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KampYeri.DAL\\Migrations\\20240512193531_ilkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512192806_il.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KampYeri.DAL\\Migrations\\20240512192806_il.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\views\\kampbolgesi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\views\\kampbolgesi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\views\\kampbolgesi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\views\\kampbolgesi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri\\views\\kampbolgesi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45252A53-86E1-458C-A724-89D1042CEEDC}|KampYeri\\KampYeri.csproj|solutionrelative:kampyeri\\views\\kampbolgesi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\migrations\\20240512195824_ilka\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\migrations\\20240512195824_ilka\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\migrations\\20240512194703_ilka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\migrations\\20240512194703_ilka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|c:\\users\\user\\source\\repos\\mvc-ntier-example\\kampyeri\\kampyeri.dal\\migrations\\20240512193815_ilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DC0D78-9ACB-464C-88C3-812632D7C2BF}|KampYeri.DAL\\KampYeri.DAL.csproj|solutionrelative:kampyeri.dal\\migrations\\20240512193815_ilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Abstract\\Repo.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Repositories\\Abstract\\Repo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Abstract\\Repo.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Repositories\\Abstract\\Repo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:59:04.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KampBolgesiProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Profiles\\KampBolgesiProfile.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Services\\Profiles\\KampBolgesiProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Profiles\\KampBolgesiProfile.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Services\\Profiles\\KampBolgesiProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:48:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KampBolgesiController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Controllers\\KampBolgesiController.cs",
+              "RelativeDocumentMoniker": "KampYeri\\Controllers\\KampBolgesiController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Controllers\\KampBolgesiController.cs",
+              "RelativeToolTip": "KampYeri\\Controllers\\KampBolgesiController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAEwEoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:33:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KampBolgesiManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.BLL\\Managers\\Concrete\\KampBolgesiManager.cs",
+              "RelativeDocumentMoniker": "KampYeri.BLL\\Managers\\Concrete\\KampBolgesiManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.BLL\\Managers\\Concrete\\KampBolgesiManager.cs",
+              "RelativeToolTip": "KampYeri.BLL\\Managers\\Concrete\\KampBolgesiManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:56:12.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KampBolgesiRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Concrete\\KampBolgesiRepo.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Repositories\\Concrete\\KampBolgesiRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Concrete\\KampBolgesiRepo.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Repositories\\Concrete\\KampBolgesiRepo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:33:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KampBolgesiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Concrete\\KampBolgesiService.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Services\\Concrete\\KampBolgesiService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Concrete\\KampBolgesiService.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Services\\Concrete\\KampBolgesiService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:10:09.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.BLL\\Managers\\Abstract\\Manager.cs",
+              "RelativeDocumentMoniker": "KampYeri.BLL\\Managers\\Abstract\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.BLL\\Managers\\Abstract\\Manager.cs",
+              "RelativeToolTip": "KampYeri.BLL\\Managers\\Abstract\\Manager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:10:09.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KapasiteProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Profiles\\KapasiteProfile.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Services\\Profiles\\KapasiteProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Profiles\\KapasiteProfile.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Services\\Profiles\\KapasiteProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:33:51.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CadirRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Concrete\\CadirRepo.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Repositories\\Concrete\\CadirRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Concrete\\CadirRepo.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Repositories\\Concrete\\CadirRepo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:44:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:58:04.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240512195824_ilka\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512195824_ilka\u015F.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Migrations\\20240512195824_ilka\u015F.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512195824_ilka\u015F.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Migrations\\20240512195824_ilka\u015F.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:58:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KapasiteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Concrete\\KapasiteRepo.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Repositories\\Concrete\\KapasiteRepo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Repositories\\Concrete\\KapasiteRepo.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Repositories\\Concrete\\KapasiteRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:34:24.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadirProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Profiles\\CadirProfile.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Services\\Profiles\\CadirProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Services\\Profiles\\CadirProfile.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Services\\Profiles\\CadirProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:45:08.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Index.cshtml",
+              "RelativeDocumentMoniker": "KampYeri\\Views\\KampBolgesi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Index.cshtml",
+              "RelativeToolTip": "KampYeri\\Views\\KampBolgesi\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T16:45:33.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kapasite.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\Kapasite.cs",
+              "RelativeDocumentMoniker": "Entities\\Kapasite.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\Kapasite.cs",
+              "RelativeToolTip": "Entities\\Kapasite.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:23:34.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CadirDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\DTOs\\CadirDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CadirDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\DTOs\\CadirDto.cs",
+              "RelativeToolTip": "DTOs\\CadirDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:24:01.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KapasiteDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\DTOs\\KapasiteDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\KapasiteDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\DTOs\\KapasiteDto.cs",
+              "RelativeToolTip": "DTOs\\KapasiteDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:24:17.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KampBolgesiDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\DTOs\\KampBolgesiDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\KampBolgesiDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\DTOs\\KampBolgesiDto.cs",
+              "RelativeToolTip": "DTOs\\KampBolgesiDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:24:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KampBolgesi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\KampBolgesi.cs",
+              "RelativeDocumentMoniker": "Entities\\KampBolgesi.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\KampBolgesi.cs",
+              "RelativeToolTip": "Entities\\KampBolgesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:23:26.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240512194703_ilka.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512194703_ilka.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Migrations\\20240512194703_ilka.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512194703_ilka.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Migrations\\20240512194703_ilka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:47:03.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KampBolgesiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Models\\KampBolgesiViewModel.cs",
+              "RelativeDocumentMoniker": "KampYeri\\Models\\KampBolgesiViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Models\\KampBolgesiViewModel.cs",
+              "RelativeToolTip": "KampYeri\\Models\\KampBolgesiViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:01:18.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CadirViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Models\\CadirViewModel.cs",
+              "RelativeDocumentMoniker": "KampYeri\\Models\\CadirViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Models\\CadirViewModel.cs",
+              "RelativeToolTip": "KampYeri\\Models\\CadirViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:01:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cadir.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\Cadir.cs",
+              "RelativeDocumentMoniker": "Entities\\Cadir.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\Entities\\Cadir.cs",
+              "RelativeToolTip": "Entities\\Cadir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:23:08.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KapasiteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Models\\KapasiteViewModel.cs",
+              "RelativeDocumentMoniker": "KampYeri\\Models\\KapasiteViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Models\\KapasiteViewModel.cs",
+              "RelativeToolTip": "KampYeri\\Models\\KapasiteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:01:23.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240512193531_ilkk.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512193531_ilkk.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Migrations\\20240512193531_ilkk.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512193531_ilkk.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Migrations\\20240512193531_ilkk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:35:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\appsettings.json",
+              "RelativeDocumentMoniker": "KampYeri\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\appsettings.json",
+              "RelativeToolTip": "KampYeri\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T19:37:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240512193815_ilk.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512193815_ilk.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Migrations\\20240512193815_ilk.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512193815_ilk.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Migrations\\20240512193815_ilk.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA5wE8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:38:15.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240512192806_il.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512192806_il.cs",
+              "RelativeDocumentMoniker": "KampYeri.DAL\\Migrations\\20240512192806_il.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri.DAL\\Migrations\\20240512192806_il.cs",
+              "RelativeToolTip": "KampYeri.DAL\\Migrations\\20240512192806_il.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:28:06.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Create.cshtml",
+              "RelativeDocumentMoniker": "KampYeri\\Views\\KampBolgesi\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Create.cshtml",
+              "RelativeToolTip": "KampYeri\\Views\\KampBolgesi\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T19:14:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KampYeri\\Views\\KampBolgesi\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Delete.cshtml",
+              "RelativeToolTip": "KampYeri\\Views\\KampBolgesi\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T18:58:57.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KampYeri\\Views\\KampBolgesi\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MVC-Ntier-Example\\KampYeri\\KampYeri\\Views\\KampBolgesi\\Edit.cshtml",
+              "RelativeToolTip": "KampYeri\\Views\\KampBolgesi\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T18:57:33.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

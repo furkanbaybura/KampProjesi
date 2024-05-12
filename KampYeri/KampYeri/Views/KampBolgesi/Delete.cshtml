@@ -1,0 +1,11 @@
+﻿@model KampBolgesiViewModel
+
+<div class="alert alert-danger">
+    @Model.Ad isimli KampBolgesini silmek istediğinize emin misiniz?
+</div>
+<form asp-action="Delete" asp-controller="KampBolgesi" method="post">
+    <button class="btn btn-danger">EVET</button>
+    <a asp-action="Index" class="btn btn-primary">HAYIR</a>
+    <input asp-for="Ad" hidden class="form-control" />
+
+</form>

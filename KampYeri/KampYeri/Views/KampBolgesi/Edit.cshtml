@@ -1,0 +1,15 @@
+﻿<h1>KATEGORİ EKLEME</h1>
+@model KampBolgesiViewModel
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Ad"> </label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="form-text text-danger"></span>
+    </div>
+    <button class="btn btn-primary">Güncelle</button>
+
+</form>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}
